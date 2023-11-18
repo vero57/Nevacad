@@ -1,0 +1,1 @@
+print("Halo nama saya Yosua Gerrard Ferdinand, saya berumur 16 tahun, saya kelas XI SIJA 1")
